@@ -22,7 +22,7 @@ Laravel Breeze is an optional authentication scaffolding that you can pull in th
 ## Installation
 Like I’ve mentioned above, Laravel Breeze can be pulled in through Composer (as a dev dependency)
 ```
-composer require Laravel/breeze –dev
+composer require Laravel/breeze –-dev
 ```
 
 This command does not pull in the authentication scaffolding itself. It has pulled in a new option that you can run with artisan.

@@ -1,6 +1,6 @@
 ## Laravel Breeze Tutorial 
 
-The following documentation is based on my [Laravel Breeze Tutorial]() tutorial where we will be diving into Laravel Breeze. <br> <br>
+The following documentation is based on my [Laravel Breeze Tutorial](https://www.youtube.com/watch?v=APs8QwFxZBo) tutorial where we will be diving into Laravel Breeze. <br> <br>
 •	Author: [Code With Dary](https://github.com/codewithdary) <br>
 •	Twitter: [@codewithdary](https://twitter.com/codewithdary) <br>
 •	Instagram: [@codewithdary](https://www.instagram.com/codewithdary/) <br>
